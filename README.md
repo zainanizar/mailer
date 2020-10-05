@@ -1,2 +1,2 @@
-# mailer
-Website to send mails to all e-mail id's in a database
+# Mailer
+Website to send e-mails to all e-mail id's in a database.
